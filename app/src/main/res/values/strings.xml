@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Eddystone Scanner</string>
+    <string name="hint">Enter Notes Here</string>
+</resources>
